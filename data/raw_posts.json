@@ -1,0 +1,230 @@
+[
+    {
+        "post": "Yang aku suka soal \"vibe coding\" adalah dengan dikasih requirement ontology, konsep data model yang dekat dengan bisnis, kita bisa men-generate functional data modelSuatu hal yang junior dan mid level engineer pun masih kesulitanGa sempurna. Tapi senior engineer ke atas pun juga tidak bisa membuat data model yang sempurnaSehingga:✅ Harus ada business, product, engineering observability biar tau kalo ada yang ga sesuai✅ Harus bisa iterasi cepet✅ Harus bisa migrate kalo ternyata data modelnya ga sesuai✅ Deploy harus ngebut biar iterasi cepet✅ Misahin release dengan deploymentVibe coding itu vibing banget sama modern engineering practices 👌P.S. ini requirementnya pun ditulis pake ChatGPT. PM tu masih ada gunanya ga si?",
+        "likes": 239
+    },
+    {
+        "post": "Dulu waktu masih kecil sering lewat Pondok Indah. Lewatin rumah2 besar. Jadi pingin punya rumah besar kalau sudah dewasaSekarang sudah dewasa, sudah punya rumah besar. Ngurusnya repot, walaupun dah ada ART dan tukang kebon. Rasanya ga “hangat” soalnya manusianya pada jauh2. Akhirnya mainly dipake biar anabul bisa hepi lari2Jadi berpikir “kenapa kok orang pada mau punya rumah besar ya? Pada ga mikir apa ya ga enak punya rumah besar??”Hari ini aku paham kenapa di Jakarta banyak rumah2 besar. Ternyata kalo mau nyimpen uang cash triliunan butuh rumah yang besar",
+        "likes": 124
+    },
+    {
+        "post": "Salah satu kunci kesuksesan karir yang aku bagikan dalam materi di courseku adalah: 𝐩𝐢𝐜𝐤 𝐭𝐡𝐞 𝐫𝐢𝐠𝐡𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐫Masalahnya kita ga bisa tau manager yang bagus itu kaya gimana sampe kita udah di manage sama yang jelekA good manager 𝐩𝐫𝐞𝐯𝐞𝐧𝐭 𝐛𝐚𝐝 𝐭𝐡𝐢𝐧𝐠𝐬 𝐟𝐫𝐨𝐦 𝐡𝐚𝐩𝐩𝐞𝐧𝐢𝐧𝐠, more so than 𝐦𝐚𝐤𝐢𝐧𝐠 𝐠𝐨𝐨𝐝 𝐭𝐡𝐢𝐧𝐠𝐬 𝐡𝐚𝐩𝐩𝐞𝐧Untuk orang yang baru lulus, gmn kita tau manager kita preventing bad things from happening kalo kita sendiri ga tau what are those bad things?Harus ngerasain dulu rasanya dimanage sama manager yang sampahHarus ngerasain dulu culture yang toxicHarus ngerasain dulu kerja keras dari jam 7 pagi sampe jam 2 pagi tapi ga berprogress karena kebanyakan prosesi acaraSo enjoy the process. Kalo lagi dapet manager sampah ya dinikmati aja karena itu bagian dari kita bisa identify manager yang bagus kaya gmnKarena manager kita juga manusia. Bisa skill issue juga. Masalahnya kebanyakan ga tau kalo mereka punya skill issue, apalagi kalo mereka used to be a really good engineer",
+        "likes": 386
+    },
+    {
+        "post": "Code review is literally politics:1. Ada source code punya orang lain2. U mau otak-atik untuk kepentingan u dan team u3. U convince dia dengan berbagai cara, dari yang objective (data, proof of concept, test plan) sampe subjective (ajak makan bareng, ngomong soal relevansi ke karir dia)4. U convince orang2 sekitar juga. Devops biar mau masukin build. QA biar mau lolosin. PM biar reprioritize biar kerjaan kita masuk5. Sukses berpolitik di sini artinya kode u masuk production6. Padahal real goalnya adalah realizing user impactJadi kalo ada orang bilang “ga mau berpolitik” tu kaya “pingin dapet duit tapi ga mau kerja”Bisa ga? BisaDiketawain ga? DiketawainHotel? Trivago",
+        "likes": 405
+    },
+    {
+        "post": "Akhir2 ini kepikiran suatu konsep management“The individuals that I hire are not amazing. Heck, even I am a B player. But the system and process that we built make us, objectively, an A team”Terus replace B player with AI",
+        "likes": 65
+    },
+    {
+        "post": "Akhir2 ini kepikiran suatu konsep management“The individuals that I hire are not amazing. Heck, even I am a B player. But the system and process that we built make us, objectively, an A team”Terus replace B player with AIMulai dari managementnya (read: saya sendiri) hashtag#GabutLyfe",
+        "likes": 54
+    },
+    {
+        "post": "Waktu pulang dari US aku setup interview process persis kaya yang di US (kecuali orang yang aku pernah kerja bareng bertahun2, dan team masih kurang dari 10 saat itu)Dulu bener2 copas karena mikirnya \"if it works here in Silicon Valley, gotta work here as well in Indonesia. SV is strictly superior compared to Indo after all\"Screening resume buat eliminate orang yang suka pindah2 perusahaanScreening coding LeetcodeLive coding session (Leetcode style)Live system designLive behaviorGa liatin years of experienceGa liatin udah brp taun pake Golang atau JavaGa liatin udah bisa Docker pa blomGa liatin udah pernah kerja di domain yang sama atau blomGa mikir dari first principle sebenernya masing2 interview itu ngapain. Ga mikir juga ketika digabungin jadi satu interview loop mereka berusaha menjawab apa dan hubungannya samaAlhasil 6 bulan review ratusan resume, interview 70+ orang, cuma 1 orang yang lolos. Less than 2% passing rateTerus aku ganti pelan2Aku turunin tingkat kesulitan screening (80% easier)Aku turunin tingkat kesulitan live codingCoba ganti interview live coding Leetcode style buat frontend interview jadi live coding bikin React appAku adjust behavior interview lagiSemua hal ini bikin aku eventually belajar dan punya senseWhat good look likeWhat good even mean, komposisinya apaGood itu ga absolute. Dia bergantung dari kebutuhan, culture, produk, dan komposisi existing team kaya gimanaDan akhirnya bisa grow decent engineering team sampe 120+ orangKey takeaways:1️⃣ Leetcode style interview tu bakal banyak false negative (kita tolak orangnya padahal orang itu mungkin mampu). This is not necessarily bad, karena mending ga dapet talent bagus daripada dapet talent jelek dan harus dipecat dari dalem. Tapi kalau sampai ga bisa hire sampai berbulan2, maybe you need to seriously reconsider your hiring process2️⃣ Leetcode style is good to uncover hidden gems 💎. Banyak intern, ex-bootcamp, orang yang ga pernah kerja di perusahaan terkenal, anak2 agency, yang aku temukan dan memilki talent yang mantep. Berhasil aku grow dan sampe sekarang masih sering aku kontak buat side project3️⃣ Kalo kumpeni kita masih kecil, kita perlu cari cara selain Leetcode. Tujuannya supaya bisa mengurangi false negative. Karena orang ga tau kumpeni kita, kita jadi ga mendapat kandidat sebanyak itu (ya iyalah, siapa yang mau kerja di kumpeni sketchy). Kita coba pakai cara lain untuk interview4️⃣ Yang bisa jalan di Silicon Valley mungkin beda sama yang bisa jalan di Indo. Bisa aja di SV terlalu overkill and maybe 10 years ahead of where we are right now. Kita sebagai leader harus bisa menyesuaikan, ga cuma jump directly to the future tapi menyesuaikan sama fase kumpeni kita dimana sekarang",
+        "likes": 0
+    },
+    {
+        "post": "Microsoft melakukan riset untuk mengukur Digital Civility Index: seberapa toxic online community suatu negara. Dihitung berdasarkan bullying, hate speech, trolling, fake newsSiapakah netijen paling biadab di Asia Pasifik? Jawabannya tidak akan mengejutkan anda!Personal takeaway: kalo kita dibuli/kena hate speech online ada pretty high chance ga usah terlalu digubris. Memang moncong netijen kita kaya gitu",
+        "likes": 328
+    },
+    {
+        "post": "If you're not happy single, you won't be happy in a relationshipTrue happiness comes from increasing company's revenue, reducing cost, and maximizing shareholder value",
+        "likes": 279
+    },
+    {
+        "post": "Memang banyak company yang blatantly copas proses interviewnya big techTapi sebel juga dipikir kumpeni bikin interview process kaya gini tu ga dipikir pros and consnyaKetika ada interview kaya gini, kita itu nyari thought process. Nyari orang yang fundamental cara berpikirnya bener. Substance belakanganKalo companynya pivot dari technology open source jadi barang lain terus u ntar teriak2 pas di layoff? Kan teknologi yang dirimu banggakan itu udah ga relevan lagi?",
+        "likes": 108
+    },
+    {
+        "post": "Banyak software engineer (dan profesional yang sudah lama kerja di suatu bidang tertentu) itu idealis dan skeptis terhadap profesional lain menggunakan AI untuk menyelesaikan pekerjaan mereka\"PM bikin prototype pake cursor? Pfft\":- banyak missnya- ga production grade- ga bisa di-maintain- \"bjir nanti kalo beneran gw digantikan AI gmn 🥶🥶😱\"Kadang engineers idealis ini lupa kalau bikin prototype itu adalah suatu milestone yang lebih baik dilalui vs langsung bikin finished product. Cuz between hypothesis to finished product there are so many things that can go wrong:Gmn kalo udah bikin 2 tahun terus ternyata market ga suka produknya?Gmn kalo market shift dari online ke offline kaya jaman2 post-pandemi?Gmn kalo user experiencenya jelek dan harus rombak?Gmn kalo business modelnya ga works dan makin gede malah perusahaan makin rugi?That's why prototypes and proof of concepts are required. To de-risk aforementioned issueBaru pas udah beberapa hal di derisk, kemampuan true professional yang idealis bakal mulai kerasa dibutuhkanDesign yang cantik dan optimizedKode yang bisa dikeroyok oleh banyak team memberMarketing execution yang solidSEO yang continuously updated supaya tetep muncul di 1st page untuk keyword2 besarInfrastruktur yang scalableProses release yang reliable yang amanSo embrace AI to cover the baselines, adopt problem solving mindset, and go deep in some area",
+        "likes": 582
+    },
+    {
+        "post": "Scary to think Gen-Z and Gen-Alpha who we thought can’t focus on one task would prevail in the future cuz AI can help themMultitasking is the new superpower and Gen-Z and Gen-Alpha are so good at it since their attention span is killed by scrolling too much TikTokScary roti, roti scary roti",
+        "likes": 130
+    },
+    {
+        "post": "Apa itu strategi? 🤔Strategi adalah buzzword yang dilemparkan team executive/management biar mereka bisa gabut cuz no one understand it except for them. Padahal mereka sendiri juga ga paham 🤣🤣1️⃣ Strategi itu apa?Strategi itu simple:1. Come up with list of options we can do2. PrioritizeThat's it! Itulah strategiMari kita ambil contoh ketika kita mau bikin aplikasi mobile. Engineering strategy yang perlu kita pikirkan adalah platform/programming language apa yang akan kita gunakan untuk mengembakan aplikasi tersebutOpsi:1. Cross platform, Flutter2. Cross platform, React Native3. Native, iOS and Android4. Native Android first with Kotlin, then use Kotlin Multiplatform to execute iOSTerus kita tinggal prioritize. Karena aku bikin aplikasi yang banyak functionality nativenya (contoh: baca SMS, video streaming), maka aku pilih Native. Jadi priority ku berubah menjadi sebagai berikut:1. Native, iOS and Android2. Native Android first with Kotlin, then use Kotlin Multiplatform to execute iOS3. Cross platform, Flutter4. Cross platform, React NativeLalu aku eksekusi 1) aja dengan limited resource and timeKenapa aku bilang prioritize and not decide? Cuz we might want to revisit our decisions laterSo listen up guys: IT'S NOT STRATEGY IF THERE'S NO OTHER OPTIONS. Kalo ga ada opsi lain artinya strateginya ndukun. Muncul dari udel. Hasil ngawang dari sowan ke Imogiri2️⃣ Strategi itu rekursifStrategi dari C-level ujungnya jadi rencana eksekusi C-levelRencana eksekusi C-level jadi strategi VPStrategi VP jadi rencana eksekusi VPRencana eksekusi VP jadi strategi Head levelGitu terus sampe intern3️⃣ Sekarang semua orang bisa bikin strategi pake AIYang paling keren adalah: sekarang ChatGPT/Claude bisa bantu kita bikin strategiKita hanya perlu:1. minta bantuan untuk nge-list semua possible option untuk nge-solve problem yang ada di depan mata2. kita kasih data dan restriction yang kita tau3. minta bantuin prioritize based on data dan restriction tersebutNow I've leaked your secret McKinsey boi. Your move",
+        "likes": 432
+    },
+    {
+        "post": "“Culture eats strategy for breakfast”Amazing read dari boss Galihmy additional takeaway:Kalau kita dah merasa jago, coba pindah dari tempat kita sekarang. Mungkin kita aslinya ga jago, tapi kebetulan kulturnya bagus. Di-carry kultur padahal aslinya bebanSedangkan kalau kita merasa ampas, coba pindah ke tempat yang well known to have good culture. Kalau kita tetap ampas, mungkin memang kita legit punya skill issue",
+        "likes": 252
+    },
+    {
+        "post": "Gimana cara naikin perceived value?Bacot and build rumorJangan kita sendiri yang bikin rumor tapi 🤣",
+        "likes": 202
+    },
+    {
+        "post": "Mari memahami perbedaan antara value vs priceValue is what you get. Seberapa jago kita actually pas kerjaPrice is what you pay. Gaji kitaPrice is the perceived value of what you payJadi kita bisa naikin harga kita dengan cara:1. Naikin value. Work harder. Work smarter. Work on the right thing yang align sama strength kita2. Naikin perceived value. Bacot more. Pencitraan di socmed. Panjat sosial, kaya saya3. Pindah ke market yang bisa pay us better aka hashtag#KaburAjaDuluJadi kalo kita lihat tech bro influencer yang ternyata ga jago (seperti saya), mungkin mereka lagi \"ngocok\" biar \"busa\" perceived valuenya banyak biar harganya tinggi",
+        "likes": 240
+    },
+    {
+        "post": "Consider a chart, dmn ada:1. our skill, now2. skill required to meet expectation3. skill required to be promotedada bbrp skill yang kita udah lebih dari next level, harusnya layak promosiTapi masih ada bbrp weak link sehingga kita ga actually dipromosiinMisalnya orangnya belajar presentasi dan new tools to create video. Maka skillnya jadi kaya chart 2Apakah orangnya grow? iyaApakah diluar scope kerjaan? iyaApakah orangnya exceeding expectation? iyaApakah orangnya bakal dipromosi? nggaHotel? TrivagoTapi misalnya orangnya pindah/taking new role. Misalnya lebih ke yang membutuhkan skill presentasiApakah skill yang barusan dipelajari berguna? IyaTapi kalo new rolenya ga butuh presentasi (gambar 2), guna ga? NggaYang tau bakal pindah kemana siapa? Orang itu sendiriJadi kalo aku sebagai manager ditanyain:\"Do you think it's best use of my time to spend time on learning new tools? Is it gonna really significantly help with my growth?\"My answer would be:\"what do YOU think?\"",
+        "likes": 325
+    },
+    {
+        "post": "Success rate saya membantu orang dapet kerjaan baru meningkat dari 82% ➡️ 86%, lalu turun ➡️ 84% pada tahun 2024. Selama itu saya menyimpulkan bahwa tech winter, unfortunately, masih going strong 😭Namun saya menyadari bahwa selain membantu orang2 dapet kerjaan baru, saya juga bisa membantu orang mencapai kapabilitas Silicon Valley level via career coaching yang berujung pada promosi atau mengefisiensikan pola kerjaMenggunakan:1. segala macam framework dan formal course yang saya ambil waktu masih di Facebook2. pengalaman coaching 30+ companies, terutama engineering leadersnya3. pengalaman membangun career framework dan mengevaluasi selama bertahun24. pengalaman membantu 319 mentee directly via 1:1 coachingsaya memformulasikan materi \"Managing Software Engineering Career\"Spoiler silabusnya bisa diceki2 di bawahDi sini saya mau fokus less about technical and hard skill, tapi lebih ke soft skill dan philosophical aspect of software engineering career. Tujuannya supaya kita bisa terus adaptasi dengan karir software engineering yang selalu berganti setiap mingguMonggo kalo mau ngantri karena ada bonus direct coaching opportunity yang saya batasi 👉: https://lnkd.in/g8ZKrVWy",
+        "likes": 266
+    },
+    {
+        "post": "Founder mode itu kaya lagi main DoTA, kita jagonya main offlane tapi team kita lagi butuh hard supportManager mode: stay as offlane, our professional role, lose the gameFounder mode: shift into hard support and actually win the gameIt’s not about working harder. It’s not even about working smarter. It’s about doing what it takes to win",
+        "likes": 191
+    },
+    {
+        "post": "Lately lagi dapet banyak request minta diajarin (interview, career coaching, executive coaching). Somehow dari LinkedIn banyak dari India, ntah nemu nama aing dari manaFYI sekarang daku lagi ga nerima mentee (kecuali temen deket dan referral). Lagi sedih soalnya success rate lagi turun dari 86% ke 84%. Pas dikulik ternyata job openingnya tutup pas orangnya beres interview 😭😭But worry not! Aku lagi memasak materi menjelajahi karir software engineering ga cuma dari cari kerja yang lebih baik, tapi juga dari panjat karir dan mengefisiensikan pekerjaan kitaNgasih spoiler bonus2nya dulu deh 👇Ratusan orang yang dapet mentorshipku banyak yang dapet increment gaji atau side income at least Rp 100juta/tahunIlmu kaya gini enaknya dijual brp yak biar yang make serius? 🤔",
+        "likes": 255
+    },
+    {
+        "post": "Kata bapak Naval biar soegih itu kita perlu punya Specific KnowledgeTapi kalau kita cuma belajar sampai 80% kemungkinan besar knowledge kita ga spesifik, thus ga make (a lot of) money. Ga ada bedanya sama orang lainAda 2 cara biar mengubah 80% knowledge kita jadi Specific Knowledge:🥇 Push harder, sampe jadi 99%, and become the best in the world🛠️ Kombinasi multiple skillKarena saya personally orangnya bosenan, jatuhnya lebih cocok dengan kombinasi banyak skillWhat's your strategy to generate Specific Knowledge?",
+        "likes": 210
+    },
+    {
+        "post": "What's better than Cheerleader? 🤔A Silicon Valley-level Cheerleader 👍What's better than a Silicon Valley-level Cheerleader? 🤔A fractional Silicon Valley-level Cheerleader at a fraction of the price 👍Hire me, a fractional Cheerleader, for $200/hourYour eng productivity will 📈📈📈Send me a DM or request through https://lnkd.in/gHKXMiat",
+        "likes": 126
+    },
+    {
+        "post": "Sebagai 10% engineers suatu prinsip yang saya pegang adalahLearn just enough to be dangerousDo the 20% that gets you 80% therePrakteknya:💻 Software Engineering✅ Bisa bikin aplikasi end-to-end dari mobile (React Native), FE (React), backend (Typescript), sampe deploy dan bisa diakses publik✅ Bisa setup CI/CD pake Github Action✅ Bisa query data tipis2✅ Bisa data analysis tipis2 (dari descriptive sampai prescriptive)✅ 200 soal LeetCode🔜 Bisa RAG dan fine-tune GPT model🔜 Bisa bikin simple OLAP data pipeline💼 Project Management✅ Bisa manage delivery team kecil (3-8 people)✅ Bisa manage delivery sekumpulan grup kecil (5 team of 3-8 people)✅ Bisa nulis daily, weekly, quarterly update buat stakeholders✅ Bisa nulis strategy document yang konek ke bisnis🔜 Nulis dokumen2 di atas dalam < 30 menit🎨 Design🔜 Tau user experience yang lagi hits saat ini🔜 Bisa mapping user experience kaya apa yang bagus buat suatu user persona tertentu🔜 Punya library reference supaya \"kalo aplikasinya kaya X, kita bikin mirip2 kaya Y\"🏋️ Health✅ < 15% body fat ✅ 50 push-ups✅ 10 pull-ups✅ Bench body weight✅ Squat 1.5x body weight✅ Deadlift 1.75x body weight🔜 < 1km in 4 min🔜 < 100ms in 12 sec🔜 Bench press 100kg💰 Money✅ Punya catetan Expense, Income, dan Investment✅ Bisa bikin dan manage budget✅ Bisa bedain punya uang vs punya budget✅ Bisa bagi investasi ke short-term, mid-term, long-term dan menyesuaikan sesuai risk profile🔜 Tau bandar yang bisa ngasih rekomendasi stonk 📈📈📈 Business✅ Bisa bedain short-term asset (cash, inventory), long-term asset (brand, tanah, mesin), short-term liability (hutang, tagihan), dan long-term liability (shareholder equity)✅ Bisa close warm lead✅ Bisa performance marketing, antara Facebook atau Google✅ Bisa SEO, antara programmatic SEO atau editorial SEO🔜 Bisa menghasilkan cold lead🤝 Relationship✅ Know enough meme to be dangerous🔜 Punya library meme yang cukup untuk nge-reply meme dengan memeWhat's your 20%?",
+        "likes": 572
+    },
+    {
+        "post": "Ketika 1 on 1 antara manager dan direct reportnya, agenda harusnya diarahkan dari direct reportnya, bukan dari managerKarena dari segi manager, kita sebagai direct report hanya satu dari 10 orang yang dia manage. Kalau kita gagal, masih ada 9 orang lain yang bisa mendorong manager kita ke arah sukses. We're just one pawn in the chess boardTerus sebagai direct report apa agenda 1 on 1 yang harus kita bahas?1. Gimana cara promosi2. Ada kesempatan promosi atau ngga3. Ada mentor dan sponsor yang bisa bantu based on skill kita saat ini atau ngga4. \"Saya tau satu role model di kumpeni ini. Ada project dimana saya bisa kerja sama beliau tak?\"5. Perlu nunjukin skill apa6. Perlu beresin project apa sekarang7. Manager ada top concern apa yang bisa dibantu yang related ke organization, bukan project8. \"Ada feedback untuk teammate, bisa tolong bantu sampaikan?\"9. \"Agar silaturahmi tidak terputus, bolehkan minta naik gaji seratus?\"10. Ada gosip apa di team dan kumpeni saat ini?📉 Agenda yang baiknya dikurangi saat 1 on 1:1. Project updates. Bisa dilakukan async atau saat team meeting2. Technical help (seperti code review atau pairing). Ini bisa dilakukan diluar setting 1 on 1Sebagai direct report kalau kita berharap manager kita memberikan feedback tanpa kita minta, ngurusin kita, dan berharap beliau tau kapan kita mau dipromosi dan diapresiasi itu mirip dengan diskusi singkat berikut:\"Sayang mau makan apa?\"\"Terserah\"",
+        "likes": 363
+    },
+    {
+        "post": "Last month, once again, we invited mas Gogo (Listiarso Wastuargo) as a speaker for our Mamikos Sharing Session, special for Tech Leads.We discussed about Observability Metrics (for both business & engineering purpose), and it was a very eye-opening. The material was very complex and incredible, yet very easy to understand.Once again, thank you mas Gogo for coming and sharing. Jangan kapok kita undang ya.. ☕",
+        "likes": 64
+    },
+    {
+        "post": "Pertanyaan favoritku akhir2 ini ketika interview full-stack engineer\"Kontribusimu sebagai software engineer untuk jualan apa aja?\"  Saya ngerjain produk sesuai permintaan pak bos Saya ngobrol sama user, katanya dia butuh X, jadi aku bantu prioritize dan bikin fitur2 itu Saya generate 100 landing page template buat boost editorial SEO",
+        "likes": 83
+    },
+    {
+        "post": "Karena banyak yang nanyain di DMBatch terakhir Managing Software Engineering Career course lagi dibuka. Akan tutup 1 Mei, dan akan tutup for a while. Soalnya kebetulan lagi seru mainan E Ay dan menipu pejabatLink: https://lnkd.in/gW6sVv3jSlightly unrelated note: tech winter udah mulai mencari dan mulai banyak hiring terjadi (termasuk remote dari US, Singapur, Australia). Kita ga tau berapa lama udara segar ini akan berjalan. Akan sangat disayangkan kalau kita ga siap menggapai opportunity yang kita ga tau bakal ada berapa lama",
+        "likes": 35
+    },
+    {
+        "post": "\"Mas Go, what do your highest-growth mentees do differently?\"𝐏𝐚𝐝𝐚 𝐦𝐚𝐢𝐧 𝐃𝐨𝐓𝐀Orang yang main DoTA, especially on highest level:- daya juang tinggi- high agency- growth mindset, mau belajar dari macem2 resources- self-evaluation. Liat replay sendiri- adaptive dengan meta",
+        "likes": 147
+    },
+    {
+        "post": "Kita bisa beli banyak hal dengan kemampuan kita sebagai builder🪜 beli social capital: bikinin orang lain website🤫🧏 beli rizz: pake AI buat bikin gambar Ghibli style/puisi ke pasangan🧲 beli influence: bantuin bikin sistem yang berhubungan dengan politik (e.g. Kawal***)💪 beli kekuasaan: bantuin bikin automation untuk HaloDek, Bupati, dkkGa semua hal itu perlu di-convert jadi duitIlmu kita bisa dituker ke \"capital\" lain juga",
+        "likes": 0
+    },
+    {
+        "post": "Suatu hidden feature dari 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐂𝐚𝐫𝐞𝐞𝐫 (https://lnkd.in/gW6sVv3j): aku kurasi mentee2 yang menurutku sepertinya bakal vibing kerja bareng aku dari attitudenya saat 1:1. Aku ajak kerja, berbayar, untuk beberapa proyek yang lagi aku kerjainAt that point yang didapatkan oleh mereka:💰 Gaji bulanan yang nutup harga coursenya🎓 Pengalaman kerja yang beda dengan kerjaan mereka (cuz I trust potential, not current ability). Belajar sambil dibayar👨🏻‍🏫 Evaluasi dan feedback harian dari aku. You'll know what good look like. You'll know what fast look like. Kamu akan tau apakah kamu pantes di level dan title sekarang (and how to level up)🤝 Kerja bareng team yang udah aku kurasi yang tentunya ga kaleng2👩🏻‍🔬 Kerja bareng product manager yang aku groom personally, jadi ga ampas kaya most product manager di IndoEnak kerja sama orang yang commit untuk belajar. Karena mindsetnya dah bener dari awal - investasi paling gede ROInya adalah investasi otak",
+        "likes": 157
+    },
+    {
+        "post": "At some point seorang leader ga bisa beralasan lagiPas masi junior kita bisa bilang \"ini udah kemampuan maksimum kita. Udah kerja weekend, ga tidur 3 hari\"Pas udah level senior pun kita masih bisa bilang \"ini team capacity udah maximum\"At some point performa kita didikte dari market, bukan seberapa banyak kita berusahaMarket ga peduli sama Head, VP atau CTO yang bilang \"ini udah usaha maksimum kita\"Salah sendiri ga beli tools yang udah readySalah sendiri pake rewrite ke RustSalah sendiri pake microservicesSalah sendiri hire team yang kurang okeSalah sendiri runwaynya tinggal buat 2 bulanFortunately it goes both way: ketika market lagi asik, leadernya bisa gabutThat's why it's important to work in the right marketDi negara yang tepat (bukan negara berflower)Jualan ke customer di negara yang tepat (bukan negara berflower)Di industri yang berkembangDi industri yang dapat curahan duit banyakDi negara yang dapat curahan duit banyakDi bumi yang damai (ketika perang duitnya pindah ke hal lain)Di iklim ekonomi yang interest ratenya rendah",
+        "likes": 320
+    },
+    {
+        "post": "Interview engineering manager itu sedikit berbeda dari interview software engineer. Perbedaan yang lumayan banyak adalah interview EM bakal lebih banyak subjective element (culture fit, referral, orang dalam)👨‍💻 Coding. Di beberapa kumpeni EM masih diharapkan bisa ngoding (walaupun akhirnya ga ngoding). Karena diharapkan mereka bisa jadi mentor yang efektif untuk engineer yang junior ke mid levelBisa dalam bentuk DSA, atau domain (hardware, programming language)🧩 System Design. EM masih butuh bisa melakukan system design. Ini lebih wajib dan lebih sering muncul interviewnya daripada codingBisa dalam bentuk system design, product design, Android/iOS/Frontend system design. Bergantung team yang di-manage🛠️ Behavior - product/project building. Buat cari tau cara kerja EM tersebut. Apakah dia tipe yang empower anak2nya tapi let mistakes happen? Atau tipe yang micromanage tapi ngebut?👥 Behavior - organization building. Gimana mereka nge-structure teamnya? Ada team developer experience? Teamnya vertical? Kenapa satu squad isinya 5 orang? Kenapa Data Analyst-nya di dalam squad dan ga centalized? Mereka pernah nge-grow dan mecat team membernya ga?🧬 Behavior - culture fit. Kalo ini masalah personal to company. Apakah orangnya cocok sama kumpeninya. Apakah orangnya suka eksperimen, padahal kumpeninya doing critical mission? Apakah orangnya suaknya ngerjain deep work aja, padahal kumpeninya harus banyak kolaborasi dan interupsi?",
+        "likes": 275
+    },
+    {
+        "post": "Find your sensei; not the senseiSekarang jaman informasi dah banyak. Banyak juga informasi dan ilmu yang sama, tapi dikemas dengan cara yang berbedaMungkin cara belajar yang menarik adalah cari orang yang bisa ngajarin suatu materi yang kemasannya sesuai dengan kita daripada nyari orang yang bener2 jago di materi ituSesuai artinya:1. Levelnya sesuai dengan level kita sekarang2. Bisa bawa kita dari level itu ke level + 13. Pembawaannya cocok sama kita (mau itu ngegas atau santun)Terus ntar tiap level up ganti \"mentor\" baru kalo yang lama udah ga cocok lagiTentunya harus diimbangi dengan memperkuat muscle brain kita biar kita tetep terbiasa konsumsi konten yang kita sendiri tidak biasa",
+        "likes": 86
+    },
+    {
+        "post": "Dilema ngasih interview sebagai hiring managerInterviewer 👩‍🏫: \"tolong kerjakan soal LeetCode ini\"Kandidat 🤷: \"apaan sih soal ga jelas. Ini kan ga ada hubungannya sama pekerjaan sehari-hari\"👩‍🏫: \"tolong kerjakan case study permasalahan yang beneran terjadi sehari-hari di perusahaan ini\"🤷: \"kamu pasti mau free labor ya ngasih permasalahan riil di perusahaan sekarang?\"👩‍🏫: *yauda de gw cari via jalur ordal aja*",
+        "likes": 338
+    },
+    {
+        "post": "Hire interns folks! They are amazing",
+        "likes": 14
+    },
+    {
+        "post": "Skill dan Scope adalah 2 dari 4 hal yang bisa kembangkan di karirTapi gmn caranya? Apakah ada pedoman what's next skillset dan next scope look like? Gimana kalau manager atau kumpeni kita ampas, ga ada career framework?Paling asik sih liat contekan di https://progression.fyiCara pakainya gmn:1. Pilih satu kumpeni (contoh Dropbox, mayan enak dikonsumsi)2. Kira-kira kita ada di level apa3. Cek apakah kita udah ngerjain semua sesuai ekspektasi level itu4. Cek apakah kita udah ngerjain sesuai ekspektasi selanjutnya5. Bikin dokumen penilaian kita sendiri. Kasih nilai kita sendiri terhadap ekspektasi di level tersebut6. Cross check sama manager, manager of manager dan mungkin peerKalau begini paling ngga kita mendapat sedikit pemahaman apakah kita ada skill issue atau tidak",
+        "likes": 190
+    },
+    {
+        "post": "My ex-manager used to say: \"You don't have to be a manager. But you will need to be a leader\"Who do I lead? What do I lead?Apparently, the answer is 4C: Capital, Collaboration, Code, ContentAs engineers, we start by leading our code",
+        "likes": 114
+    },
+    {
+        "post": "Aku pernah nge-tweet tentang junior engineer supaya cepat berkembang harus fokus menjadi produktif. Kebetulan saat ini junior engineer fokusnya ngoding (mungkin ntar kalau AI sudah lebih advance fokusnya jadi lebih ke prompting)Benchmarknya adalah 200PR per 6 bulan (dan 200 production deployment kalau teamnya pakai CI/CD)Ini artinya 2 PR per hariDi Twitter ada beberapa yang komentarGimana caranya tuh bisa nge-PR dan deploy 200 kali per semester?Kerjaannya kecil2 low quality kali?Kerjaannya ga di review kali?Banyak PR itu bukan berarti delivering valuesBanyak PR bukan berarti banyak impactBanyak PR berarti banyak effort. Doesn't always mean banyak impactPesan yang aku pingin tekankan adalah kalau PRnya blom banyak berarti mungkin ada bottleneck yang bisa difix dan diimprove dari level individual, team dan kumpeniNtah cara nulis kodenyaNtah cara review kodenyaNtah cara kerja dalam teamnyaNtah cara pairing sama engineernyaNtah cara deploymentnyaNtah cara testingnyaNtah arsitektur kodenyaNtah team structurenyaNtah OKRnyaBanyak PR itu a measure. It's not a targetTapi skill issue juga jangan dipelihara",
+        "likes": 270
+    },
+    {
+        "post": "Kemarin sempet ngisi webinar yang di-arrange sama mas Zikrul Ihsan. Ada beberapa pertanyaan yang mayan asik dibahas1️⃣ Gimana cara jago coding interviewOtak kita itu ada 2 bagian: slow brain dan fast brainSlow brain: bagus buat komputasi yang kompleks. Data di hard disk. Informasinya banyakFast brain: bagus buat ngambil data, ngerjain sesuatu yang simple dan intuitif. Data di RAM. Informasinya dikitSaat coding interview kita ga bisa pake slow brain, karena waktu kita cuma 45-60 menit. Makanya harus banyak2in informasi di fast brain. Tapi fast brain juga harus di warm upBuat improve slow brain: baca buku, belajar ngerjain algo/struktur data baru. Biar slow brainnya makin kaya isinya dan kita bisa melakukan teknik2 dan computational skill baruBuat improve fast brain: latihan intense satu jenis masalah. Biar skill yang di slow brain terasah dan makin banyak yang nempel di fast brain2️⃣ Cara ngukur impact sebagai software engineerJadi ada flow of gimana kita generate impactEffort -> Output -> Outcome -> ImpactBiar gampang kita kasih contoh ajaEffort: implement login button improvementOutput: increase number of clicks untuk button login by 20%Outcome: increase number of user login by 10% (cuz we increase number of clicks 20%)Impact: increase revenue by 5% (cuz we increase number of login by 10%)Yang penting adalah:1. Kita tau effort apa yang generate impact2. Kita tau koneksinya dari effort ke impact3. Kita bisa memperbanyak effort yang kita lakukan ituVideo lengkap tanya jawabnya bisa ceki2 sendiri di: https://lnkd.in/gAM-w-2F dan https://lnkd.in/gavj-Ktm",
+        "likes": 399
+    },
+    {
+        "post": "Bahasa LinkedIn: I trade digital currency backed by cryptography with leveraged positionBahasa Awam: saya judol pakai pinjolBahasa Asli: duit saya sekarang 0",
+        "likes": 147
+    },
+    {
+        "post": "Lagi lumayan penasaran sama konsep meta-skillSkill: kemahiran yang diperlukan untuk menyelesaikan suatu taskMeta-skill: kemahiran untuk belajar/upgrade skillContoh:- Skill: ngoding Rust- Meta-skill: skill untuk belajar bahasa pemrograman baru- Meta-meta-skill: skill untuk belajar barang teknikal baruBelajar meta-skill menurutku lebih penting daripada belajar skill karena meta-skill transferable ke skill lain dan berhubungan dengan seberapa cepat kita bisa belajar skillBeberapa meta-skill yang menurutku penting:- Skill untuk belajar: do things, get feedback fast, change behavior based on feedback- Skill untuk problem solving: baca Ken Watanabe Problem Solving 101- Skill computational thinking: problem abstraction, pattern matching, problem decomposition, algorithm- Skill untuk persisten dan konsistenMeta skill apa lagi yang kira2 penting?",
+        "likes": 310
+    },
+    {
+        "post": "Setelah sekian lama jadi bos akhirnya ngerasain lagi rasanya di micromanage 🫠Sebagai manager, micromanaging terlihat menarik karena kita nyaman dengan proses yang kita paham, sudah kita ketahui hasilnya, dan kita tahu paling efektif dan efisienPermasalahannya adalah ketika di-micromanage orang tidak bisa memberikan 100% effort mereka. Akan ada keterbatasan di motivasi kita. Ini berhubungan dengan inner motivation manusia: control, autonomy, masteryBakal butuh waktu lebih lama, tapi hasilnya bisa lebih bagus (dari dimensi hasil pekerjaan, kebagiaan team, kolaborasi team)Jadi kalau kita punya waktu, tolong jangan micromanage ya 😭",
+        "likes": 243
+    },
+    {
+        "post": "Dapet pertanyaan dari mentee tentang burnoutTerus nemu catetanku tentang burnout yang aku share ke mantan kumpeni duluTernyata burnout itu bukan melulu gara2 kebanyakan kerjaanTernyata burnout itu gara2 kombinasi workload, control, reward, community, fairness, and valueAda 6 alasan burnout:1. Workload (kebanyakan kerjaan)2. Control (di micromanage)3. Reward (gaji ga sebanding workload)4. Community (ga ada sobat sambat)5. Fairness (manager/team pilih kasih)6. Value (bacotan management ga sesuai sama praktek lapangan)Lalu apa yang bisa employer/management lakukan biar team ga burnout?1. Workload: kasih waktu recover abis sprint. Improve tooling, process, and remove roadblocks2. Control: lead with why, not what3. Reward: celebrate milestone dan accomplishment4. Community: 1 on 1, WFC rame2, badmin bareng5. Fairness: implement objective hiring, promotion, and performance review6. Value: align company actions to stated values. Kalo management blg value company \"customer centric\", they better do customer service at least once a monthRisetnya bisa dibaca di https://lnkd.in/gGkMyGf8Kalo mau ambil quiznya buat ngecek dirimu lagi burnout apa ngga: https://lnkd.in/gGWqEZH8",
+        "likes": 382
+    },
+    {
+        "post": "Kalau anda kenal atau pernah kerja sama saya, pasti tau kalau saya tipe engineer yang pragmatis- Teknologi seadanya aja- Kalo bisa pake Google Sheet ya udah ga usah dikoding- Copas kode gpp, abstraksi belakangan- Landing page dulu, coba validate demandTapi satu hal yang saya anjurkan teman-temin lakukan (dan yang masih saya lakukan) adalah from time to time try to overengineer your product Karena untuk menjadi product engineer yang baik kita harus mencari balance solusi yang bagus antara yang \"ya udah gini aja\" vs \"rocket science Oppenheimer level\"Kalau kita ga pernah nyicipin bagian yang \"rocket science\" dan terus menerus berkutat di \"ya udah gini aja\" terus gimana kita bisa jadi product engineer yang baik yang bisa nemu solusi yang balance?Jangan sampai kita berada di posisi dimana produk kita sukses berat (amiiiiiiin  🤲 🤲) tapi kitanya ga siap untuk menjawab kebutuhan teknologinyaYa jangan marah kalau nanti CEOnya malah mempekerjakan antek async So...... go ahead and make those Abstract Factory Builder Delegate Observer... go ahead and make those 10 levels of Higher Order Component... go ahead and implement those event-driven architecture... go ahead and configure all of your infrastructure through code... go ahead and start your product with microservices even though you have 0 customerStretch your limitThen figure out when/where/why/what/how you fuck upThen improvise, adapt, overcome",
+        "likes": 497
+    },
+    {
+        "post": "Sebagai introvert, salah satu cara untuk mengumpulkan social capital adalah dengan melakukan 1 on 1🤔 Kenapa 1 on 1?1. Ga terlalu melelahkan untuk introvert2. Bisa ngobrol super random ga filter (karena ga usah mikirin orang lain selain satu lawan bicara)3. Bisa dilakukan dengan setting macem2 (jalan kaki, hiking, main basket, main DoTA, nge-bar, sebat)4. Catch-all, bisa bahas macem2 dari proyek, kehidupan pribadi, hobi, investasi, temen yang ngeselin, gosip kantor5. Powerful: built really strong dan long-term human-to-human connection/trust🧑‍🤝‍🧑 1 on 1 sama siapa aja?1. Sama manager2. Sama management (managernya manager, director, VP)3. Sama peer (design, product manager, marketing, operation, sales, solution engineer, engineering manager lain)4. Sama team📝 Pas 1 on 1 bahas apa?Saya orangnya agak sistematis, segala hal selalu ada notesnya di Notion. Tapi saya sebisa mungkin bikin 1 on 1 ga ada topik dan agenda khusus kecuali terpaksa. Tujuannya biar lebih nge-flow aja diskusinya, lebih natural, lebih human-to-humanTapi kadang2 harus ada topik pancingan biar diskusinya mulai ngalir. Ini 5 topik pancingan saya:1. How are you doing? How can I help?2. I've got feedback (positive/negative) for you3. Let's talk about what's happening in our vicinity. Ada gosip apa?4. Let's talk about how can I help with your caeer (yes, including with management team... though this is going to be more subtle for the bosses)5. I have an idea! This is what I think...",
+        "likes": 354
+    },
+    {
+        "post": "I've reached the absolute peak of software engineering career ladderYes, you hear that rightIn fact, I was at the peak for 4 yearsSoftware engineering career ladder:🏁 intern🚀 software engineer🚀 tech lead🚀 engineering manager🚀 engineering director🚀 VP of Engineering🚀 SVP of Engineering🚀 CTO🚀 CEO🏔️ farmerP.S. managing a fish farm is actually quite difficult. I wouldn't recommend it for your retirement",
+        "likes": 189
+    },
+    {
+        "post": "I had a mentee who grew from E3 (junior engineer) to E5 (senior engineer) in 1.5 years. In the first performance review, he got Redefine Expectation, the highest performance rating on Facebook, and got promoted from E3 to E4.According to this post, it seems that he's promoted faster than 99% of all engineers at Facebook: https://lnkd.in/gUkAjujYThe result is replicable in other aspects of software engineering career. In fact, I am currently doing 1:1 coaching for interviewing at tech company with a success rate of 80% out of over 200 mentees that I've coached: https://lnkd.in/ghYt6h2kWill you pay for a $500 cohort-based course about software engineering and engineering manager career, guaranteed to increase your salary by at least 20% in 1 year? Kinda similar to this: https://lnkd.in/gq4RVNEg, but cheaper and with a 1-year money-back guarantee.",
+        "likes": 54
+    },
+    {
+        "post": "I believe job hunting, just like experiencing dating apps for men, boils down to numbers game and funnel.You can try to keep improving your profile. But what helps, ultimately, is to keep swiping right.Read more: https://lnkd.in/gh-FHGc2Or watch it on Youtube: https://lnkd.in/gQSRgwGX",
+        "likes": 117
+    },
+    {
+        "post": "As I was scavenging my old archives, I found this gem: https://lnkd.in/gkgf2HPiIt's a research about the correlation between Developer Velocity Index (DVI) and business success.The thesis is that the top-performing companies have high DVI. In fact, companies with high DVI outperform the market by 4-5 times!This is why Developer Experience is always the first thing I pay attention to whenever I join a new company. Because it's one of the most overlooked but has massive leverage to the team and the businessMy own takeaway on what's important:1. Culture of Psychological Safety2. Product Management Capability3. Planning, collaboration, development, and DevOps toolsMy current go-to to solve all 3 top problems:1. Separate deployment vs. release2. Add feature flag and A/B test. Currently loving Posthog and Growthbook.3. Trunk-based development + robust CI/CD. Currently loving Github Actions.4. Add business, product, and engineering observability. Currently loving Metabase (for business), Mixpanel (for product), and Datadog (for engineering), respectively.",
+        "likes": 57
+    },
+    {
+        "post": "Menang kita Randi Restiyono 💪🏸",
+        "likes": 18
+    },
+    {
+        "post": "Software engineers making $700k/year in Bay Area/Seattle be like",
+        "likes": 52
+    },
+    {
+        "post": "Besok puasawagmi",
+        "likes": 13
+    },
+    {
+        "post": "I've just finished 172 interviews through http://interviewing.io and 700+ software engineering interviews over my career.As interviewer and hiring manager, I'd love to share the top mistakes people made to help with your hashtag#interviewprep:1. Coding: Do not get attached to your code during dry-run.2. System Design and Product Design: Always write your API response.3. Behavior: Tailor your takeaway to the company's values. The STAR framework might help.",
+        "likes": 73
+    },
+    {
+        "post": "Farm -> App -> Table... FAT(??)Join our FAT team 🍔🚀!!https://lnkd.in/gYDDScYX",
+        "likes": 17
+    },
+    {
+        "post": "Does anyone have experience working with TPM (or is hashtag#tpm him/herself) in Indonesia startup ecosystem? Would love to learn more about the setup!Context: has been reading https://lnkd.in/gj-yP8p6 and wondering how would this apply in Indonesia.",
+        "likes": 29
+    },
+    {
+        "post": "Saving the planet one fresh produce at a time. Also fun engineering team to work in. No office politics. No bullshit. Just fresh impact ready for picking.",
+        "likes": 38
+    },
+    {
+        "post": "Kalo nyampah/post meme di LinkedIn banyak yang nge-like ga ya?",
+        "likes": 12
+    }
+]
